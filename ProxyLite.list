@@ -1,6 +1,7 @@
 # 代理补充列表
 
 # 域名后缀匹配
+DOMAIN-SUFFIX,onedrive.live.com
 DOMAIN-SUFFIX,qichiyu.com
 
 # 域名关键字匹配
@@ -23,7 +24,7 @@ DOMAIN-SUFFIX,doh.opendns.com
 DOMAIN-SUFFIX,dns.quad9.net
 DOMAIN-SUFFIX,hk-hkg.doh.sb
 
-DOMAIN-SUFFIX,onedrive.live.com
+
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
